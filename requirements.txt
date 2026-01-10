@@ -3,7 +3,7 @@ flask==3.0.2
 langchain==0.1.16
 langchain-core==0.1.42
 langchain-community==0.0.34
-langchain-huggingface==0.0.8
+langchain-huggingface==0.1.2
 
 transformers==4.39.3
 sentence-transformers==2.6.1
